@@ -672,3 +672,5 @@ set colorcolumn=81
 
 highlight ColorColumn ctermbg=8
 
+" add by tangyan
+set nu
